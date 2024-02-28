@@ -7,13 +7,15 @@
     <a href="https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689">
         <img src="assets/tic-tac-toe-ios.gif" width="200" />
     </a>
+    <a href="https://github.com/crozario/SolarSystemDemo">
+        <img src="assets/solarsystem-ios.gif" width="200"/>
+    </a>
     <a href="https://github.com/crozario/dogdemo">
         <img src="assets/dogdemo-ios.gif" width="200"/>
     </a>
     <a href="https://github.com/crozario/Rewinder">
         <img src="assets/rewinder-ios.PNG" width="200"/>
-    </a>  
-      
+    </a>
 </p>
 
 ## In Development iOS apps
@@ -26,6 +28,8 @@
 - [**Rewinder: Rewind It**](https://github.com/crozario/Rewinder) (Discontinued) - an audio recording app to easily retrieve the past 30, 60 or 90 seconds of recording. [Check out the github repository.](https://github.com/crozario/Rewinder)
 
 ## Demo iOS Apps
+
+- [**Solar System Demo**](https://github.com/crozario/SolarSystemDemo) - displays objects from the solar system. Used Spline for displaying interactive 3D objects.
 
 - [**Dog Demo**](https://github.com/crozario/dogdemo) - shows random dog images using a public api.
 
