@@ -16,9 +16,6 @@
     <a href="https://github.com/crozario/dogdemo">
         <img src="assets/dogdemo-ios.gif" width="200"/>
     </a>
-    <a href="https://github.com/crozario/Rewinder">
-        <img src="assets/rewinder-ios.PNG" width="200"/>
-    </a>
 </p>
 
 ## In Development iOS apps
