@@ -7,6 +7,9 @@
     <a>
         <img src="assets/dateready-ios.gif" width="200" />
     </a>
+    <a>
+        <img src="assets/articulate-ios.gif" width="200" />
+    </a>
     <a href="https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689">
         <img src="assets/tic-tac-toe-ios.gif" width="200" />
     </a>
@@ -20,6 +23,8 @@
 
 ## In Development iOS apps
 - **Date Ready** - an app to help improve dating profiles. It is currently able to review profile images. We process images using gpt4 vision api. Future updates will include enhancing images, editing images, help users chat with their matches.
+
+- **Articulate** - an app for learning new words.
 
 ## Released to iOS app store
 
