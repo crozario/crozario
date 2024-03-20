@@ -28,7 +28,7 @@
 
 ## Released to iOS app store
 
-- [**Tic Tac Toe - Unbeatable AI**](https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689)  - A two player 3x3 grid board game with player vs. player and player vs. AI. [Check out the github repository](https://github.com/crozario/TicTacToe).
+- [**Tic Tac Toe - Unbeatable AI**](https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689)  - A two player 3x3 grid board game with player vs. player and player vs. AI.
 
 - [**Rewinder: Rewind It**](https://github.com/crozario/Rewinder) (Discontinued) - an audio recording app to easily retrieve the past 30, 60 or 90 seconds of recording. [Check out the github repository.](https://github.com/crozario/Rewinder)
 
